@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="YOUR_GIF_URL_HERE" width="100%" alt="digital banner" />
+<img src="./assets/1.gif" width="100%" alt="digital banner" />
 
 # AbduLz0
 
