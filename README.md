@@ -4,7 +4,7 @@
 
 # AbduLz0
 
-linux, systems, and other things on the wire
+linux, systems, Security 
 
 `linux` · `automation` · `ai`
 
@@ -13,13 +13,11 @@ linux, systems, and other things on the wire
 ---
 
 ### projects
-
-- [Converto](https://github.com/AbduLz0/Converto)
-- [DS4 Control Center](https://github.com/AbduLz0/ds4-control-center)
 - [Terminal Experience Studio](https://github.com/AbduLz0/fun-cli)
+- [Converto](https://github.com/AbduLz0/Converto)
 - [Hermes Local](https://github.com/AbduLz0/hermeslocal)
-- [EPIC](https://github.com/AbduLz0/Epic_Translator)
-
+- [Linux Wallpaper enigne](https://github.com/AbduLz0/linux-wallpaper-engine-gnome-xorg)
+- [DS4 Control Center](https://github.com/AbduLz0/ds4-control-center)
 ---
 
 ```text
