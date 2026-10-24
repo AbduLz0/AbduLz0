@@ -2,11 +2,11 @@
 
 <img src="./assets/1.gif" width="500" alt="Black-and-white manga panel: a lone figure resting against a rock in front of a huge pale sun" />
 
-# AbduLz0
+# 𒉭AbduLz0𒉭
 
-**Linux tools that are local-first, undoable, and honest about their limits.**
+**I like to Create GUI programs For fun**
 
-`linux` · `systems` · `automation` · `ai`
+`linux` · `Quality of life` · `automation` · `ai`
 
 <br/>
 
