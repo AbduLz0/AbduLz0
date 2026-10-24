@@ -2,9 +2,9 @@
 
 <img src="./assets/1.gif" width="500" alt="Black-and-white manga panel: a lone figure resting against a rock in front of a huge pale sun" />
 
-# 𒉭AbduLz0𒉭
+# 𒉭 AbduLz0
 
-**I like to Create GUI programs For fun**
+**I Create programs For fun**
 
 `linux` · `Quality of life` · `automation` · `ai`
 
