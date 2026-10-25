@@ -59,7 +59,7 @@ Explore [Terminal Experience Studio](https://abdulz0.github.io/fun-cli/) or open
 ---
 
 <div align="center">
-<img src="./assets/2.gif" width="300" style="opacity: 0.3;"/>
+<img src="./assets/2.gif" width="300" style="opacity:0.3;" />
 </div>
 
 
