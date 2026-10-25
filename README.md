@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/1.gif" width="500" alt="Black-and-white manga panel: a lone figure resting against a rock in front of a huge pale sun" />
+<img src="./assets/1.gif" width="500"/>
 
 # 𒉭 AbduLz0
 
@@ -58,10 +58,10 @@ Explore [Terminal Experience Studio](https://abdulz0.github.io/fun-cli/) or open
 
 ---
 
-```text
-~ $ whoami
-abdulz0
-~ $ status
-online: building in public, one install.sh at a time
-```
+
+<img src="./assets/2.gif" width="500"/>
+
+
+
+
 
