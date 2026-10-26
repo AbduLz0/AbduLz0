@@ -73,5 +73,4 @@ Found a bug or have an idea? **Open an issue in the relevant repo.** Include you
 
 <div align="center">
 <img src="./assets/2.gif" alt="Berserk closing animation" width="220" />
-<p><sub>Built out of curiosity. Shared for anyone who finds it useful.</sub></p>
 </div>
