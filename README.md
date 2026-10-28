@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/1.gif" alt="Berserk animation" width="420" />
+<img src="./assets/1.gif" alt="Berserk animation" width="420"/>
 
 # 𒉭 AbduLz0
 
